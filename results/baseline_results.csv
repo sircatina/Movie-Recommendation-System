@@ -1,0 +1,4 @@
+Model,RMSE,MAE
+Global Mean,1.1268,0.9439
+Movie Mean,1.022,0.8133
+Matrix Factorization,0.9275,0.7278

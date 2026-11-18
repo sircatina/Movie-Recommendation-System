@@ -1,0 +1,4 @@
+Model,RMSE,MAE
+Matrix Factorization,0.9275,0.7278
+Genre Model,1.0297,0.8293
+Hybrid,0.926,0.7293
